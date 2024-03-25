@@ -1,3 +1,4 @@
+
 import React from "react";
 
 const AboutPage = () => {
@@ -10,8 +11,8 @@ const AboutPage = () => {
         <p className="text-base md:text-lg">
           EliteAppMakers is an independent research organization founded with
           the goal of promoting and developing artificial intelligence (AI) in a
-          safe and beneficial manner. It was established in 2019 by a group of
-          technology entrepreneurs and researchers, including Ezhavalagan.
+          safe and beneficial manner. It was established in 2023 by a group of
+          technology entrepreneurs and researchers, founded by Elavazhakan.
         </p>
       </div>
       <div className="py-2 space-y-2">
@@ -89,3 +90,4 @@ const AboutPage = () => {
 };
 
 export default AboutPage;
+
